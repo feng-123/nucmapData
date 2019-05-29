@@ -1,0 +1,14 @@
+Package: nucmapData
+Type: Package
+Title: An example dataset for use with the NuCMap package
+Version: 0.99.0
+Date: 2012-09-13
+Author: Liqun Xi, Qingyang Zhang, Kristin Brogaard, Bruce Lindsay, Jonathan Widom, Ji-Ping Wang
+Maintainer: Ji-Ping Wang <jzwang@northwestern.edu>
+Description: This experiment data package is for the use with the NuCMap package. It contains all the illustration data files.
+License: LGPL (>= 2)
+Depends: R(>= 2.13.2)
+biocViews: ExperimentData
+ZipData: no
+LazyLoad: yes
+Packaged: 2012-09-15 13:00:01 UTC; Qingyang
